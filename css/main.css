@@ -1,0 +1,30 @@
+img {
+    max-width: 150px;
+    height: auto;
+}
+
+header {
+    background-color: cyan;
+    padding-left: 10em;
+}
+
+.wrap {
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
+dl {
+    font-size: 1.15rem;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+dd {
+    margin: 0;
+    margin-left: 0;
+}
