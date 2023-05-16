@@ -1,7 +1,7 @@
-/* img {
+img {
     max-width: 150px;
     height: auto;
-} */
+}
 
 header {
     background-color: cyan;
@@ -12,8 +12,6 @@ header {
     float: left;
     padding-left: 10px;
     padding-top: 10px;
-    max-width: 150px;
-    height: auto;
 }
 
 body {
